@@ -2,3 +2,5 @@ CHANGE 1
 Remote change
 
 local change
+line 5
+line 6
